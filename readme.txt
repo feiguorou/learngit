@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 new line from dev branch.
 anothor line from dev...
+final line from dev
