@@ -6,4 +6,4 @@ new line from dev branch.
 anothor line from dev...
 final line from dev
 manage branch
-lll
+lll---the bug fixed
